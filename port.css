@@ -1,0 +1,90 @@
+.d5{
+	text-align: right;
+	font-size: 25px;
+	color: darkblue;
+
+
+}
+h1{
+	color:#B60600 ;
+	font-family: cursive;
+
+}
+h2{
+	color: red;
+	border-: 2px solid black;
+}
+*{
+	background-color: #DAF7A6;
+	
+}
+.detail{
+	color: black;
+	border: 2px solid ;
+    font-size: 20px;
+}
+.detail2{
+	font-size: 18px;
+	font-family: monospace;
+	color: darkblue;
+}
+.details4{
+	border: 2px solid black;
+	font-family: cursive;
+}
+[href]{
+	font-size: 20px;
+	font-family: cursive;
+	color: darkblue;
+}
+span{
+	font-family: serif;
+	font-size: 24PX;
+	color: #042785;
+	background-color: #D7D8D7;
+}
+.details3{
+	font-size: 20px;
+	color: #123906;
+	font-family: sans-serif;
+	border: 2px solid black;
+}
+.details6{
+	font-family: monospace;
+	font-size: 20px;
+	color: #B50D07;
+	border: 3px solid black;
+}
+caption{
+	font-family: serif;
+	font-size: 24px;
+}
+.details5{
+border: 2px solid black;
+}
+.detail20{
+
+}
+sup{
+	font-size: 30px;
+	color: #0C0072;
+	font-family: cursive;
+
+}
+#Q1{
+	font-size: 20px;
+	color: darkblue;
+}
+.details4{
+	font-size: 20px;
+	color: orangered;
+	font-style: cursive;
+
+}
+table,th,td{
+	border: 2px solid black;
+}
+footer{
+	text-align: center;
+    font-family: cursive;
+}
